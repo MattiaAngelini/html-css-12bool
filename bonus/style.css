@@ -7,16 +7,34 @@
     padding: 0;
 }
 
-
-.box {
-    background-color: blue;
-    color: white;
-    text-align: center;
-    padding: 6px;
-    border: 1px solid white;
+.pokeball {
+    margin-top: 40px;
 }
 
-.box .box {
-    background-color: green; 
-    border: 1px solid white;
+.box-lightred {
+    background-color: lightcoral;   
+    height: 30px;
 }
+
+.box-red {
+    background-color: red;    
+    height: 30px;
+}
+
+.box-white {
+     background-color: white;
+     height: 30px;
+}
+
+.box-black {
+     background-color: black;  
+     height: 30px;
+}
+
+.box-grey {
+     background-color: grey;
+     height: 30px;
+}
+
+
+
