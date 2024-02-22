@@ -1,0 +1,22 @@
+/*----------------
+    RESET
+-----------------*/    
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.box {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    border: 1px solid white;
+}
+
+.box .box {
+    background-color: green; 
+    border: 1px solid white;
+}
