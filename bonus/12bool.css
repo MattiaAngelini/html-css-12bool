@@ -8,14 +8,6 @@
 }
 
 /*----------------
-    CONTAINERS
------------------*/
-.container {
-    max-width: 1170px;
-    margin: 0 auto;
-}
-
-/*----------------
     GENERAL
 -----------------*/    
 .row {
@@ -34,18 +26,6 @@
     max-width: 1170px;
     margin: 0 auto;
     margin-bottom: 30px;
-}
-
-/*----------------
-    GENERAL
------------------*/    
-.row {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-[class*="col-"] {
-    flex: 0 0 auto;
 }
 
 /*----------------
